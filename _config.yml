@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rishikesh Magar"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : 
+  bio              : "Deep Apple Therapeutics"
   location         : "San Francisco"
-  employer         : "Deep Apple Therapeutics"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QPDath0AAAAJ&hl=en"
   email            : "rmagar@alumni.cmu.edu"
